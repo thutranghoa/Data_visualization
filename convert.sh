@@ -1,1 +1,1 @@
- jupyter nbconvert --to pdf mynotebook.ipynb
+ jupyter nbconvert --to pdf ex5.ipynb
